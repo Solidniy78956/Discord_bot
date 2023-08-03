@@ -1547,4 +1547,4 @@ async def send_currency_updates():
 
 
 
-bot.run(Bot_Token)
+bot.run('MTA2NDUyMDM1ODEwMDc0NjMwMQ.GWGq-p.UQG1XuARAOTtWMRdKVg1xYHpStKlhoS8hWpkGI')
